@@ -1,0 +1,27 @@
+#page {
+    background-color: darkslategrey;
+    color: rgb(206, 130, 59);
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.title {
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.pic.wedge {
+    width: 50%;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+}
